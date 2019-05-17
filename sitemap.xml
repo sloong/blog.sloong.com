@@ -3,12 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.sloong.com/categories/</loc>
+    <loc>https://www.sloong.com/post/first/</loc>
+    <lastmod>2019-05-17T14:42:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sloong.com/post/</loc>
+    <lastmod>2019-05-17T14:42:28+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.sloong.com/</loc>
+    <lastmod>2019-05-17T14:42:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sloong.com/about/</loc>
+    <lastmod>2019-05-17T14:41:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sloong.com/unity3d/</loc>
+    <lastmod>2019-05-17T14:41:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sloong.com/categories/</loc>
     <priority>0</priority>
   </url>
   
